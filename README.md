@@ -18,3 +18,8 @@
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12178455257&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+</p>
+
