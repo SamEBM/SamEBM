@@ -1,5 +1,5 @@
 <h1 align="center">Samuel Miranda</h1>
-<h3 align="center">Computer Systems Engineer</h3>
+<h3 align="center">Computer Science Engineer</h3>
 <p align="center"><em>First, solve the problem. Then, write the code.</em></p>
 
 <div align="center">
