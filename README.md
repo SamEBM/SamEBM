@@ -1,5 +1,6 @@
 <h1 align="center">Samuel Miranda</h1>
 <h3 align="center">Computer Systems Engineer</h3>
+<p align="center"><em>First, solve the problem. Then, write the code.</em></p>
 
 <div align="center">
   <a href="https://www.instagram.com/samuel.miranda_/"><img src="https://img.shields.io/badge/instagram-%23F56040.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
@@ -47,4 +48,3 @@
    <img alt="Spotify song" src="https://spotify-github-profile.vercel.app/api/view?uid=12178455257&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)">
   </img>
 </div>
-
