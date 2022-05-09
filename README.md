@@ -49,6 +49,6 @@
 </div>
 
 <p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+  <img align="center" alt="Programming" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif"/>
 </p>
 
