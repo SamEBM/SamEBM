@@ -1,4 +1,8 @@
 <h1 align="center">Samuel Miranda</h1>
+
+<p align="center">
+  <img align="center" alt="Programming" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
 <h3 align="center">Computer Systems Engineer</h3>
 
 <div align="center">
@@ -47,8 +51,4 @@
    <img alt="Spotify song" src="https://spotify-github-profile.vercel.app/api/view?uid=12178455257&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)">
   </img>
 </div>
-
-<p align="center">
-  <img align="center" alt="Programming" src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif"/>
-</p>
 
