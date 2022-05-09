@@ -1,8 +1,4 @@
 <h1 align="center">Samuel Miranda</h1>
-
-<p align="center">
-  <img align="center" alt="Programming" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-</p>
 <h3 align="center">Computer Systems Engineer</h3>
 
 <div align="center">
