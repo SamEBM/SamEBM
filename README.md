@@ -1,7 +1,7 @@
 <h1 align="center">Samuel Miranda</h1>
 <h3 align="center">Computer Systems Engineer</h3>
 <!--
-  <p align="center"><em>First, solve the problem. Then, write the code.</em></p>
+  <p align="center"><em>Programming as a state of mind</em></p>
 -->
 <p align="center"><em>Enjoy the process!</em></p>
 <div align="center">
